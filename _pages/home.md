@@ -1,14 +1,14 @@
 ---
-title: "Allan Lab - Home"
+title: "Roy Lab - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University &rarr; LMU."
+excerpt: "Roy Lab at West Texas A&M University &rarr; WTAMU."
 sitemap: false
 permalink: /
 ---
 
-**News: Our group moved to the University of Munich (LMU)!** Join us! 
+**News: Our group moved to the West Texas A&M University (WTAMU)!** Join us! 
 
-We are a dynamic research group at [LMU physics](https://www.physik.lmu.de/en/index.html) and at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl/). 
+We are a dynamic research group at [WTAMU Department of Chemistry and Physics]([https://www.physik.lmu.de/en/index.html](https://www.wtamu.edu/academics/college-agriculture-natural-sciences/department-chemistry-physics/index.html)) 
 
 We have two overarching goals: first, 
 **to understand quantum materials**, including strange metals, high-temperature superconductors, and quantum critical electron matter. Second, **to make novel and useful materials** that never existed before, like possible room-temperature superconductors. 
