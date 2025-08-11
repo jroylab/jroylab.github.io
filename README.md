@@ -1,4 +1,4 @@
-# Tyler Lab Website
+# Roy Lab Website
 
 This is the website of our academic research group at West Texas A&M University.
 
