@@ -67,5 +67,5 @@ We are currently building up our instruments right in the center of Munich, in t
 
 
 <figure class="fifth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/SPIRIT-StackedLogoNEW-digital650.png" style="width: 650px; border-radius: 0;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/SPIRIT-StackedLogoNEW-digital650.png" style="width: 635px; border-radius: 0;">
 </figure>
