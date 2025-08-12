@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Roy Lab at West Texas A&M University."
+excerpt: "Roy Lab at West Texas A&M University"
 sitemap: false
 permalink: /allnews.html
 ---
