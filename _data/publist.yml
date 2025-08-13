@@ -1,7 +1,7 @@
 - title: "Photocatalysis of Methane on TiO2 Catalyst using First Principles and Kinetic Monte-Carlo Approach"
   image: BSCCO_noise.png
   description: What is the pseudogap and what is the relation between pseudogap and superconductivity? – This is likely the most discussed issue in quantum matter over the last three decades. We report a direct evidence for equivalence of pseudogap and onset energy for electron pairing with our state-of-art electron pair microscope. This may inspire hope for materials with higher Tc.
-  authors: Juganta K. Roy, Mona Abdelgaid and Giannis Mpourmpakis,
+  authors: Juganta K. Roy, Mona Abdelgaid and Giannis Mpourmpakis
   link:
     url: https://arxiv.org/abs/2409.15928
     display: arXiv
@@ -10,13 +10,13 @@
 - title: "Designing Thiadiazoloquinoxaline- based Conjugated Polymers for Efficient Organic Photovoltaics: A DFT/TDDFT Study"
   image: ShotNoise.png
   description: Can mesoscopic shot noise experiments show the doubling of the charge carriers in a superconductor? Turns out, it's complicated. We investigated this in several different samples, and made predictions as to what is necessary to make this work.
-  authors: Taylor A. Dorlus, Juganta K. Roy, and Jerzy Leszczynski,
+  authors: Taylor A. Dorlus, Juganta K. Roy, and Jerzy Leszczynski
   link:
     url: https://doi.org/10.3390/molecules29071580
     display: Phys. Rev. Lett. 132, 076001 (Editors' Suggestion)
   highlight: 1
 
-- title: "“Fused Double Donor Design with a Cross-Conjugated Dibenzosilin for Dye- Sensitized Solar Cells"
+- title: "Fused Double Donor Design with a Cross-Conjugated Dibenzosilin for Dye-Sensitized Solar Cells"
   image: imageaward_edited.png
   description: Shot noise has been suggested for a long time as a tell-tale probe for Majorana bound states. We are the first to carry out local tunneling shot noise measurements on the putative vortex Majorana states.
   authors: Qing Yun Li, Ravinder Kaur, William E. Meador, Juganta K. Roy, Jerzy Leszczynski, and Jared H. Delcamp
@@ -26,7 +26,7 @@
   highlight: 1
   news2: See [news item](https://www.universiteitleiden.nl/en/news/2023/06/new-method-to-find-majoranas-tested-for-the-first-time) by Michelle Willebrands
 
-- title: "Synthesis and Characterization of Novel Thienothiadiazole- based D-π-A-π-D Fluorophores as Potential NIR Imaging Agents”
+- title: "Synthesis and Characterization of Novel Thienothiadiazole- based D-π-A-π-D Fluorophores as Potential NIR Imaging Agents"
   image: BSCCOgap.png
   description: Why does cuprate superconductivity break down at a certain doping level? Using scanning tunneling spectroscopy we find that an emerging metallic matrix inside the superconducting state is responsible for the overall reduction of Tc and the superfluid density, while leaving the gapsize unchanged. The formation of the matrix is tied to a pair breaking process violating a core principle of mean-field theories.
   authors: Sajith M. Vijayan, Nicholas Sparks, Juganta K. Roy, Austin Dorris, Ethan Lambert, Dilan Karunathilaka, Nathan I. Hammer, Jerzy Leszczynski and Davita L. Watkins
@@ -36,8 +36,7 @@
   highlight: 1
   news1: See [News and Views](https://www.nature.com/articles/s41563-023-01552-x) by Yu He.
 
-
-- title: "Photophysical Properties of Donor–Acceptor−π Bridge– Acceptor Sensitizers with a Naphthobisthiadiazole Auxiliary Acceptor: Toward Longer- Wavelength Access in Dye-Sensitized Solar Cells"
+- title: "Photophysical Properties of Donor–Acceptor−π Bridge– Acceptor Sensitizers with a Naphthobisthiadiazole Auxiliary Acceptor: Toward Longer-Wavelength Access in Dye-Sensitized Solar Cells"
   image: Pairs3.png
   description: We use our atomic-scale scanning tunneling noise setup on a disordered superconductor, and discover a state above TC that, much like an ordinary metal, has no (pseudo)gap, but carries charge via paired electrons.
   authors: Juganta K. Roy, Ravinder Kaur, Andrew Daniel, Alexandra Baumann, Qing Li, Jared H. Delcamp, and Jerzy Leszczynski
@@ -86,7 +85,6 @@
     display: npj Quantum Materials 6, 7 (2021)
   highlight: 0
   news2:
-
 
 - title: "Computational and Experimental Approach to Understanding the Structural Interplay of Self- assembled End-terminated Alkanethiolates on Gold Surfaces"
   image: TBG_ARPES.png
@@ -191,7 +189,7 @@
   news1: <a href="https://aip.scitation.org/doi/10.1063/1.5043267">Instrument details in Rev. Sci. Instrum. 89, 093709 (2018)</a>
   news2:
   
-  - title: "Production and Properties of Short Jute and Short E-Glass Fiber Reinforced Polypropylene- Based Composites"
+- title: "Production and Properties of Short Jute and Short E-Glass Fiber Reinforced Polypropylene- Based Composites"
   image: Pub_BCl.png
   description: Using our newly developed noise-spectroscopy technique we discover charge trapping in a cuprate high-temperature superconductor.
   authors: Md Nuruzzaman Khan, Juganta K. Roy, Nousin Akter, Haydar U. Zaman, Tuhidul Islam, Ruhul A. Khan
@@ -202,7 +200,7 @@
   news1: <a href="https://aip.scitation.org/doi/10.1063/1.5043267">Instrument details in Rev. Sci. Instrum. 89, 093709 (2018)</a>
   news2:
     
-  - title: "Heavy metal contamination in soil environment from the textile mill effluents of Bangladesh"
+- title: "Heavy metal contamination in soil environment from the textile mill effluents of Bangladesh"
   image: Pub_BCl.png
   description: Using our newly developed noise-spectroscopy technique we discover charge trapping in a cuprate high-temperature superconductor.
   authors: S. M. E. Haque, A. N. M. H. Kabir, K. M. Z. Hossain, M. S. Alam, and J. K. Roy
