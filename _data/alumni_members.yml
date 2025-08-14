@@ -1,3 +1,21 @@
+- name: "Asmita Adhikari"
+  photo: rock.jpg
+  info: Currently working in the industry
+  email: aadhikari@buffs.wtamu.edu
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+
+- name: "Farrah Creery"
+  photo: rock.jpg
+  info: Currently pursuing Ph.D. in Chemical Engineering, University of Oklahoma
+  email: 
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  
 - name: "This could be you !"
   photo: rock.jpg
   info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
