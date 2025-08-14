@@ -1,10 +1,10 @@
 - title: "Photocatalysis of Methane on TiO2 Catalyst using First Principles and Kinetic Monte-Carlo Approach"
-  image: BSCCO_noise.png
+  image: dynamic-catalysis.png
   description: What is the pseudogap and what is the relation between pseudogap and superconductivity? – This is likely the most discussed issue in quantum matter over the last three decades. We report a direct evidence for equivalence of pseudogap and onset energy for electron pairing with our state-of-art electron pair microscope. This may inspire hope for materials with higher Tc.
   authors: Juganta K. Roy, Mona Abdelgaid and Giannis Mpourmpakis
   link:
-    url: https://arxiv.org/abs/2409.15928
-    display: arXiv
+    url: https://doi.org/10.1021/acscatal.4c04312
+    display: ACS Catal. 2025, 15, 2, 1195–1205
   highlight: 1
 
 - title: "Designing Thiadiazoloquinoxaline- based Conjugated Polymers for Efficient Organic Photovoltaics: A DFT/TDDFT Study"
