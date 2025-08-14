@@ -5,7 +5,7 @@
   link:
     url: https://doi.org/10.1021/acscatal.4c04312
     display: ACS Catal. 2025, 15, 2, 1195–1205
-  highlight: 1
+  highlight: 0
 
 - title: "Designing Thiadiazoloquinoxaline- based Conjugated Polymers for Efficient Organic Photovoltaics: A DFT/TDDFT Study"
   image: ShotNoise.png
@@ -13,8 +13,8 @@
   authors: Taylor A. Dorlus, Juganta K. Roy, and Jerzy Leszczynski
   link:
     url: https://doi.org/10.3390/molecules29071580
-    display: Phys. Rev. Lett. 132, 076001 (Editors' Suggestion)
-  highlight: 1
+    display: Molecules 2024, 29(7)
+  highlight: 0
 
 - title: "Fused Double Donor Design with a Cross-Conjugated Dibenzosilin for Dye-Sensitized Solar Cells"
   image: imageaward_edited.png
@@ -22,9 +22,9 @@
   authors: Qing Yun Li, Ravinder Kaur, William E. Meador, Juganta K. Roy, Jerzy Leszczynski, and Jared H. Delcamp
   link:
     url: https://pubs.acs.org/doi/full/10.1021/acsomega.3c02571
-    display: Nature Communications 4, 3341 (2023)
-  highlight: 1
-  news2: See [news item](https://www.universiteitleiden.nl/en/news/2023/06/new-method-to-find-majoranas-tested-for-the-first-time) by Michelle Willebrands
+    display: ACS Omega 2023, 8, 32, 29234–29246
+  highlight: 
+  news2: (See [news item](https://www.universiteitleiden.nl/en/news/2023/06/new-method-to-find-majoranas-tested-for-the-first-time) by Michelle Willebrands
 
 - title: "Synthesis and Characterization of Novel Thienothiadiazole- based D-π-A-π-D Fluorophores as Potential NIR Imaging Agents"
   image: BSCCOgap.png
