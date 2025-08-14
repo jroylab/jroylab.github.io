@@ -8,11 +8,11 @@ permalink: /vacancies
 
 # Open positions
 
-**We are currently open for PhD and postdoc applications related to our ERC CoG grant. The positions are mostly related to the Electron Pair Microscopy projects.**
+**We are currently open for Undergraduate researchers related to our NSF grant. The positions are mostly related to the "Materials Modeling for Semitransparent Solar Cells, using DFT and AI**
 
 We are  looking for new group members with passion, talent, and grit!
 
-You will have the chance to work on the grand challenges of condensed matter physics, often at the interface of instrumental design and new physics. You will be involved in determining the important and interesting questions, creating and improving instrumental setups, performing measurements, and making discoveries.
+You will have the chance to work on the grand challenges of photo-physics, often at the interface of chemistry/physics and artificial intelligence. You will be involved in determining the important and interesting questions, creating and improving the machine learning/deep learning code along with computational chemistry tools. 
 
 ### Past open positions
 
