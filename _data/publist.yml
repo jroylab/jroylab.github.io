@@ -58,7 +58,7 @@
 
 - title: "Systematic and Detailed Examination of NaYF4-Er-Yb-TiO2 Photocatalytic Activity under Vis-NIR Irradiation: Experimental and theoretical analyses"
   image: nayf4.png
-  description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
+  description: 
   authors: Paweł Mazierski, Juganta K. Roy, Alicja Mikolajczyka, Ewelina Wyrzykowska, Tomasz Grzyb, Pablo Nicolas Arellano Caicedo, Zhishun Wei, Ewa Kowalska, Adriana Zaleska-Medynska, Joanna Nadolna
   link:
     url: https://doi.org/10.1016/j.apsusc.2020.147805
@@ -68,11 +68,11 @@
 
 - title: "Evaluating Donor Effects in Isoindigo Based Small Molecular Fluorophores"
   image: YSR.png
-  description: We report on a peculiar, spatially dispersing YSR state in Fe(Se,Te) that can be tuned by the tip.
+  description: 
   authors: Sajith M. Vijayan, Nicholas Sparks, Juganta K. Roy, Cameron Smith, Christopher Tate, Nathan I. Hammer, Jerzy Leszczynski and Davita L. Watkins
   link:
     url: https://pubs.acs.org/doi/abs/10.1021/acs.jpca.0c07796
-    display:  Nature Communications 12, 298 (2021)
+    display: 
   highlight: 1
 
 - title: "Revealing the Photophysical Mechanism of N,N′-diphenyl-aniline based Sensitizers with D–D–𝜋–A Framework: Theoretical Insights"
@@ -81,27 +81,27 @@
   authors: Juganta K. Roy, Supratik Kar, Jerzy Leszczynski
   link:
     url: https://doi.org/10.1021/acssuschemeng.0c04061
-    display: npj Quantum Materials 6, 7 (2021)
+    display: 
   highlight: 0
   news2:
 
 - title: "Computational and Experimental Approach to Understanding the Structural Interplay of Self- assembled End-terminated Alkanethiolates on Gold Surfaces"
   image: TBG_ARPES.png
-  description: A first paper from the TBG collaboration is online, with beautiful data from the Baumberger group in Geneva, and great devices from the Efetov group at ICFO. We measured STM on the device.
+  description: 
   authors: Juganta K. Roy, Erick Vasquez, Henry P. Pinto, Swati Kumari, Keisha Walter and Jerzy Leszczynski
   link:
     url: https://pubs.rsc.org/en/content/articlelanding/2019/cp/c9cp03613j
     display:  Nature Physics 17, 198 (2020)
   highlight: 1
-  news2: News coverage by <a href="https://www.nrc.nl/nieuws/2020/09/28/slome-elektronen-maken-grafeen-supergeleidend-a4013840"> NRC </a>
-
+  news2: 
+  
 - title: "Optoelectronic Properties of C60 and C70 Fullerene Derivatives: Designing and Evaluating Novel Candidates for Efficient P3HT Polymer Solar Cells"
   image: Direct.png
   authors: Juganta K. Roy, Supratik Kar, Jerzy Leszczynski
-  description: We directly test the consistency of results from these three techniques by comparing data from the correlated metal Sr2RhO4. Using ARPES, STM, and quantum oscillations, we find good agreement for the Fermi surface topography and carrier effective masses. Hence, the apparent absence of such an agreement in other quantum materials, including the cuprates, suggests that the electronic states in these materials are of different, non-Fermi liquid-like nature. Collaboration with the groups of <a href='https://dqmp.unige.ch/baumberger/'>Baumberger</a>, <a href='https://www.london-nano.com/our-people/our-people-bios/robin-perry'>Perry</a>,  and <a href='https://www.mpg.de/6812374/chem_physik_fester_stoffe_mackenzie'>Mackenzie</a>.
+  description: 
   link:
     url: https://www.mdpi.com/1996-1944/12/14/2282
-    display:  npj Quantum Materials 5, 91 (2020)
+    display:  
   highlight: 1
   news2:
 
@@ -117,7 +117,7 @@
 
 - title: "Electronic Structure and Optical Properties of Designed Photo-Efficient Indoline-Based Dye-sensitizers with D-A-π-A Framework"
   image: TBG_ARPES.png
-  description: A first paper from the TBG collaboration is online, with beautiful data from the Baumberger group in Geneva, and great devices from the Efetov group at ICFO. We measured STM on the device.
+  description: 
   authors: Juganta K. Roy, Supratik Kar and Jerzy Leszczynski
   link:
     url: https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.8b10708
@@ -147,7 +147,7 @@
 
 - title: "Power Conversion Efficiency of Arylamine Organic Dyes for Dye-Sensitized Solar Cells (DSSCs) Explicit to Cobalt Electrolyte: Understanding the Structural Attributes Using a Direct QSPR Approach"
   image: Fano.png
-  description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
+  description: 
   authors: Supratik Kar, Juganta K. Roy, Danuta Leszczynska, and Jerzy Leszczynski
   link:
     url: http://www.mdpi.com/2079-3197/5/1/2
@@ -157,7 +157,7 @@
 
 - title: "Preparation and Properties of Coir Fiber-Reinforced Ethylene Glycol Dimethacrylate-based Composite”"
   image: dummy.png
-  description: ""
+  description: 
   authors: Juganta K. Roy, Nousin Akter, Haydar U. Zaman, K. M. Ashraf, Sabrina Sultana, Md. Shahruzzaman, Md. Nuruzzaman Khan, M. Arifur Rahman, Konica J. Fatema, M. A. Khan, Ruhul A. Khan,
   link:
     url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.134507
@@ -198,111 +198,6 @@
   news1: <a href="https://aip.scitation.org/doi/10.1063/1.5043267">Instrument details in Rev. Sci. Instrum. 89, 093709 (2018)</a>
   news2:
     
-- title: "Heavy metal contamination in soil environment from the textile mill effluents of Bangladesh"
-  image: Pub_BCl.png
-  description: Using our newly developed noise-spectroscopy technique we discover charge trapping in a cuprate high-temperature superconductor.
-  authors: S. M. E. Haque, A. N. M. H. Kabir, K. M. Z. Hossain, M. S. Alam, and J. K. Roy
-  link:
-    url: https://doi.org/10.1038/s41524-017-0025-z
-    display:  Nature Physics 14, 1183 (2018)
-  highlight: 1
-  news1: <a href="https://aip.scitation.org/doi/10.1063/1.5043267">Instrument details in Rev. Sci. Instrum. 89, 093709 (2018)</a>
-  news2:
- 
-- title: Robust procedure for creating and characterizing the atomic structure of scanning tunneling microscope tips
-  image: dummy.png
-  description: ""
-  authors: S Tewari, KM Bastiaans, MP Allan, JM van Ruitenbeek
-  link:
-    url: http://www.beilstein-journals.org/bjnano/content/pdf/2190-4286-8-238.pdf
-    display:  Beilstein J. Nanotechnol. 8, 2389 (2017)
-  highlight: 0
-  news2:
-
-- title: Creating better superconductors by periodic nanopatterning
-  image: SCAUweb.jpg
-  description:
-    We  propose  an approach to transform a ‘pristine’ material into a better (meta-) superconductor by making use of modern fabrication techniques -- designing and engineering the electronic properties of thin films via periodic patterning on the nanoscale.
-  authors:
-    MP Allan, MH Fischer, O Ostojic, A Andringa
-  link:
-    url: https://scipost.org/SciPostPhys.3.2.010/pdf
-    display: SciPost Phys. 3, 010 (2017)
-  highlight: 1
-
-- title: Poor electronic screening in lightly doped Mott insulators observed with scanning tunneling microscopy
-  image: TIBB.png
-  description:
-    We develop a simple model to interpret STM results on lightly doped Mott insulators, and find that the effective Mott gap measured by STM correspons to the one measured with other techniques when taking into account the poor electronic screeing.
-  authors:
-    I Battisti, V Fedoseev, KM Bastiaans, A de la Torre, RS Perry, F Baumberger, MP Allan
-  link:
-    url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.95.235141
-    display: Phys. Rev. B 95, 235141, Editors' suggestion (2017)
-  highlight: 0
-
-- title: Universality of pseudo gap and emergent order in lightly doped Mott insulators
-  image: Mott_phase_sep.jpg
-  description:
-    We discover of electronic order, pseudo gap phase separation and an impurity-band Mott transition in an iridate compound, cuprate-style. Along the way, we gained unique knowledge on how a Mott state collapses.
-  authors:
-    I. Battisti* & K.M. Bastiaans*, V. Fedoseev, A. de la Torre, N. Iliopoulos, A. Tamai, E.C. Hunter, R.S. Perry, J. Zaanen, F. Baumberger, M.P. Allan
-  link:
-    url: http://www.nature.com/nphys/journal/vaop/ncurrent/full/nphys3894.html
-    display: Nature Physics 13, 21 (2017)
-  highlight: 1
-  news2: See also <a href="https://www.universiteitleiden.nl/en/news/2016/09/melting-of-frozen-electrons-visualized"> Leiden University news </a> by Erik Arends, <a href="http://phys.org/news/2016-09-frozen-electrons-visualized.html"> Phys.org </a>
-
-- title: Identifying the fingerprint of antiferromagnetic spin fluctuations in iron pnictide superconductors
-  image: Pub_FP.png
-  description:
-    Both the density of states and the QPI dispersion of LiFeAs shows signatures of electron-boson coupling. Comparing these with fingerprints of different boson couplings to conclude that these signatures stem from AF spin fluctuations.
-  authors:
-    MP Allan* & Kyungmin Lee* & AW Rost*, MH Fischer, F Massee, K Kihou, C-H Lee, A Iyo, H Eisaki, T-M Chuang, AP Mackenzie, JC Davis, DJ Scalapino, E-A Kim
-  link:
-    url: http://www.nature.com/nphys/journal/v11/n2/full/nphys3187.html
-    display: Nature Physics 11, 177 (2015)
-  highlight: 1
-  news1:
-  news2: See also <a href="http://www.news.cornell.edu/stories/2015/01/high-temperature-superconductor-fingerprint-found"> Cornell Chronicle </a> by Anne Ju, <a href="http://phys.org/news/2015-01-high-temperature-superconductor-fingerprint.html"> Phys.org </a>
-
-- title: Direct evidence for a magnetic f-electron mediated Cooper pairing mechanism of heavy fermion superconductivity in CeCoIn5
-  image: dummy.png
-  description: ""
-  authors:
-    J Van Dyke, F Massee, MP Allan, JC Davis, C Petrovic, and DK Morr
-  link:
-    url: http://www.pnas.org/content/111/32/11663
-    display: PNAS 111, 11663 (2014)
-  highlight: 0
-  news1: <a style="color:#FF0000; text-decoration:underline" href="http://science.sciencemag.org/content/345/6203/twil">News item in Science</a>
-  news2:
-
-- title: Imaging Cooper pairing of heavy fermions in CeCoIn5
-  image: Pub_CeCoIn5.png
-  description:
-    The heavy Fermion superconductor CeCoIn5 has a d-wave gap with nodes along the (1,1) direction, as we find using QPI.
-  authors:
-    MP Allan* & F Massee*, DK Morr, J van Dyke, AW Rost, AP Mackenzie, C Petrovic, JC Davis
-  link:
-    url: http://www.nature.com/nphys/journal/vaop/ncurrent/abs/nphys2671.html
-    display: Nature Physics 9, 468 (2013)
-  highlight: 1
-  news1: <a style="color:#FF0000; text-decoration:underline" href="http://www.nature.com/nphys/journal/v9/n8/full/nphys2708.html">Featured in 'News and Views' by L Taillefer</a>
-  news2: See also <a href="http://phys.org/news/2013-07-imaging-electron-pairing-simple-magnetic.html"> Phys.org</a>, <a href="http://davisgroup.lassp.cornell.edu/CeCoIn5_DoE.html">DoE headliner</a>
-
-- title: Formation of heavy d-electron quasiparticles in Sr3Ru2O7
-  image: Pub_327.png
-  description:
-    Using APRES, we find that the bands in Sr3Ru2O7 look more like in heavy fermion material than in a normal metal. We present a detailed investigation into the formation of this particular electronic  structure.
-  authors:
-    MP Allan, A Tamai, E Rozbicki, MH Fischer, J Voss, PDC King, W Meevasana, S Thirupathaiah, E Rienks, J Fink, A Tennant, RS Perry, JF Mercure, MA Wang, J Lee, CJ Fennie, E-A Kim, MJ Lawler, KM Shen, AP Mackenzie, Z-X Shen, F Baumberger
-  link:
-    url: http://iopscience.iop.org/1367-2630/15/6/063029
-    display: New Journal of Physics 15, 063029 (2013)
-  highlight: 1
-  news: <a style="color:#FF0000; text-decoration:underline" href="http://iopscience.iop.org/1367-2630/15/6/063029"> Video abstract available</a>
-
 - title: Anisotropic impurity states, quasiparticle scattering and nematic transport in underdoped Ca(Fe1−xCox)2As2
   image: Pub_nemat2b.png
   description:
