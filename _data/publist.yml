@@ -5,7 +5,7 @@
   link:
     url: https://doi.org/10.1021/acscatal.4c04312
     display: ACS Catal. 2025, 15, 2, 1195–1205
-  highlight: 0
+  highlight: 1
 
 - title: "Designing Thiadiazoloquinoxaline- based Conjugated Polymers for Efficient Organic Photovoltaics: A DFT/TDDFT Study"
   image: ShotNoise.png
@@ -14,7 +14,7 @@
   link:
     url: https://doi.org/10.3390/molecules29071580
     display: Molecules 2024, 29(7)
-  highlight: 0
+  highlight: 1
 
 - title: "Fused Double Donor Design with a Cross-Conjugated Dibenzosilin for Dye-Sensitized Solar Cells"
   image: imageaward_edited.png
@@ -32,10 +32,10 @@
   authors: Sajith M. Vijayan, Nicholas Sparks, Juganta K. Roy, Austin Dorris, Ethan Lambert, Dilan Karunathilaka, Nathan I. Hammer, Jerzy Leszczynski and Davita L. Watkins
   link:
     url: https://doi.org/10.1021/acsomega.3c02602
-    display: Nature Materials 22, 703 (2023)
+    display: ACS Omega 2023, 8, 27, 24513–24523
   highlight: 1
-  news1: See [News and Views](https://www.nature.com/articles/s41563-023-01552-x) by Yu He.
-
+  news1: 
+  
 - title: "Photophysical Properties of Donor–Acceptor−π Bridge– Acceptor Sensitizers with a Naphthobisthiadiazole Auxiliary Acceptor: Toward Longer-Wavelength Access in Dye-Sensitized Solar Cells"
   image: Pairs3.png
   description: We use our atomic-scale scanning tunneling noise setup on a disordered superconductor, and discover a state above TC that, much like an ordinary metal, has no (pseudo)gap, but carries charge via paired electrons.
