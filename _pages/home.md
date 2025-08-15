@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-(**News: Our group moved to the West Texas A&M University (WTAMU)!** Join us! )
+#(**News: Our group moved to the West Texas A&M University (WTAMU)!** Join us! )
 
 We are a dynamic research group at [WTAMU Department of Chemistry and Physics] 
 
