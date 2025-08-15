@@ -38,18 +38,17 @@
   
 - title: "Photophysical Properties of Donor–Acceptor−π Bridge– Acceptor Sensitizers with a Naphthobisthiadiazole Auxiliary Acceptor: Toward Longer-Wavelength Access in Dye-Sensitized Solar Cells"
   image: Pairs3.png
-  description: We use our atomic-scale scanning tunneling noise setup on a disordered superconductor, and discover a state above TC that, much like an ordinary metal, has no (pseudo)gap, but carries charge via paired electrons.
+  description:
   authors: Juganta K. Roy, Ravinder Kaur, Andrew Daniel, Alexandra Baumann, Qing Li, Jared H. Delcamp, and Jerzy Leszczynski
   link:
     url: https://pubs.acs.org/doi/full/10.1021/acs.jpcc.2c02117
-    display: Science 374, 608 (2021)
+    display: J. Phys. Chem. C 2022, 126, 29, 11875–11888
   highlight: 1
-  news1:   <a style="color:#FF0000" href="https://www.nature.com/articles/s41567-021-01468-w">Featured as 'Research Highlight' in Nature Physics by David Abergel</a>
-  news2: See [Physics World](https://physicsworld.com/a/cooper-pairs-spotted-above-critical-temperature-for-superconductivity/), [SRON news](https://www.sron.nl/news/5169-elektronparen-blijven-stabiel-boven-kritische-temperatuur-supergeleiding), [TU Delft news](https://www.tudelft.nl/en/2021/eemcs/inexplicably-stable-electron-pairs-without-superconductivity), [Leiden news](https://www.universiteitleiden.nl/en/news/2021/10/new-quantum-liquid-discovered).
-
+  news1:
+  
 - title: "Interaction of Epoxy-based Hydrogels and Water: A Molecular Dynamics Simulation Study"
   image: TBG_SL.png
-  description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
+  description:
   authors: Juganta K. Roy, Henry P. Pinto, Jerzy Leszczynski
   link:
     url: https://doi.org/10.1016/j.jmgm.2021.107915
@@ -58,14 +57,14 @@
   news2:
 
 - title: "Systematic and Detailed Examination of NaYF4-Er-Yb-TiO2 Photocatalytic Activity under Vis-NIR Irradiation: Experimental and theoretical analyses"
-  image: TBG_SL.png
+  image: nayf4.png
   description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
   authors: Paweł Mazierski, Juganta K. Roy, Alicja Mikolajczyka, Ewelina Wyrzykowska, Tomasz Grzyb, Pablo Nicolas Arellano Caicedo, Zhishun Wei, Ewa Kowalska, Adriana Zaleska-Medynska, Joanna Nadolna
   link:
     url: https://doi.org/10.1016/j.apsusc.2020.147805
-    display:  Phys. Rev. Research 3, 013153 (2021)
+    display:  Applied Surface Science, Volume 536, 15 January 2021, 147805
   highlight: 1
-  news2: See also [Nat Comm with the group of van der Molen](https://arxiv.org/abs/2107.14716)
+  news2: 
 
 - title: "Evaluating Donor Effects in Isoindigo Based Small Molecular Fluorophores"
   image: YSR.png
