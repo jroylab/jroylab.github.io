@@ -4,7 +4,18 @@
   authors: Juganta K. Roy, Mona Abdelgaid and Giannis Mpourmpakis
   link:
     url: https://doi.org/10.1021/acscatal.4c04312
-    display: ACS Catal. 2025, 15, 2, 1195–1205
+    display: ACS Catal. 15(2),1195–1205 (2025)
+  highlight: 1
+  news1:
+  news2:
+
+- title: "Photochemical versus thermal thiol-ene “click chemistry” for renewable polyols with application in polyurethanes"
+  image: maha1.png
+  description: 
+  authors: Maha L. Shrestha, Juganta K. Roy, Mihail Ionescu, Jerzy Leszczynski
+  link:
+    url: https://doi.org/10.1002/aocs.12937
+    display: JAOCS, 102(6),973-983 (2025)
   highlight: 1
   news1:
   news2:
@@ -15,7 +26,7 @@
   authors: Taylor A. Dorlus, Juganta K. Roy, and Jerzy Leszczynski
   link:
     url: https://doi.org/10.3390/molecules29071580
-    display: Molecules 2024, 29(7)
+    display: Molecules 29(7),1580 (2024)
   highlight: 1
 
     
