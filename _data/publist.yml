@@ -23,13 +23,13 @@
 - title: "Designing Thiadiazoloquinoxaline- based Conjugated Polymers for Efficient Organic Photovoltaics: A DFT/TDDFT Study"
   image: molecules-TOC.png
   description: 
-  authors: Taylor A. Dorlus, Juganta K. Roy, and Jerzy Leszczynski
+  authors: Taylor A. Dorlus, Juganta K. Roy, Jerzy Leszczynski
   link:
     url: https://doi.org/10.3390/molecules29071580
     display: Molecules 29(7),1580 (2024)
   highlight: 1
 
-- title: "Thermocatalytic Behavior of TiO2 as a Dehydrogenation Catalyst: A Case Study of Methane Activation and Nonoxidative Coupling"
+- title: "Role of π-spacers and acceptors in regulating the photophysical properties of BTPA donor-based dyes: First-principles approach"
   image: 
   description: 
   authors: Juganta K. Roy, Asmita Adhikari, Tyler Lafferty
@@ -40,10 +40,10 @@
   news1:
   news2:   
 
-- title: "Role of π-spacers and acceptors in regulating the photophysical properties of BTPA donor-based dyes: First-principles approach"
+- title: "Thermocatalytic Behavior of TiO2 as a Dehydrogenation Catalyst: A Case Study of Methane Activation and Nonoxidative Coupling"
   image: 
   description: 
-  authors: Juganta K. Roy, Mona Abdelgaid and Giannis Mpourmpakis
+  authors: Juganta K. Roy, Mona Abdelgaid, Giannis Mpourmpakis
   link:
     url: 
     display: Molecular Catalysis (submitted)
