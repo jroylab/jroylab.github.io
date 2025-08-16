@@ -53,11 +53,11 @@ permalink: /publications/
 
 
 ## Book and Book Chapter
-<em>Juganta K Roy, Supratik Kar, Jerzy Leszczynski</em><br />NDevelopment of Solar Cells: Theory and Experiment<br /> Book by Springer (2021)
+<em>Juganta K Roy, Supratik Kar, Jerzy Leszczynski</em><br />Development of Solar Cells: Theory and Experiment<br /> Book by Springer (2021)
 
-<em>Milan P Allan</em><br /> Methods of manufacturing superconductor and phononic elements <br /> <a href="https://patents.google.com/patent/US10439125B2/en?inventor=Milan+ALLAN&oq=inventor:(Milan+ALLAN)">US10439125B2 (2016)</a>
+<em>Juganta K Roy, Supratik Kar, Jerzy Leszczynski</em><br /> Computational Screening of Organic Dye-Sensitizers for Dye-Sensitized Solar Cells: DFT/TDDFT Approach <br /> <a href="https://doi.org/10.1007/978-3-030-69445-6_8">BookChapter (2021)</a>
 
-## At WTAMU and Prior
+## At WTAMU
 
 {% for publi in site.data.publist %}
 
