@@ -9,9 +9,9 @@ permalink: /publications/
 
 # Publications
 
-## Group highlights
+**(For a full list of publications, go to [Google Scholar](https://scholar.google.com/citations?user=fIxgVAEAAAAJ&hl=en&oi=ao).)**
 
-**At the end of this page, you can find the [full list of publications and patents](#full-list-of-publications). All papers are also available on [arXiv](https://arxiv.org/search/?searchtype=author&query=Allan%2C+M+P).**
+## Group highlights
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -57,7 +57,7 @@ permalink: /publications/
 
 <em>Milan P Allan</em><br /> Methods of manufacturing superconductor and phononic elements <br /> <a href="https://patents.google.com/patent/US10439125B2/en?inventor=Milan+ALLAN&oq=inventor:(Milan+ALLAN)">US10439125B2 (2016)</a>
 
-## Full List of publications
+## At WTAMU and Prior
 
 {% for publi in site.data.publist %}
 
