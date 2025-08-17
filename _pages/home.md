@@ -64,10 +64,10 @@ We are currently building up our instruments right in the center of Munich, in t
 //**We are looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)](https://www.allanlab.org/vacancies) **!**
 {:/comment}
 
-
+<!-- <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/SPIRIT-StackedLogoNEW-digital650.png" style="width: 635px; border-radius: 0;"> -->
 
 <figure class="fifth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/SPIRIT-StackedLogoNEW-digital650.png" style="width: 635px; border-radius: 0;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-wtspirit.png" style="width: 130px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nsf.png" style="width: 130px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/welch.png" style="width: 150px">
  </figure>
