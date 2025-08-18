@@ -51,12 +51,12 @@ permalink: /publications/
 
 <p> &nbsp; </p>
 
-
+<!--
 ## Book and Book Chapter
 <em>Juganta K Roy, Supratik Kar, Jerzy Leszczynski</em><br />Development of Solar Cells: Theory and Experiment<br /> Book by Springer (2021)
 
 <em>Juganta K Roy, Supratik Kar, Jerzy Leszczynski</em><br /> Computational Screening of Organic Dye-Sensitizers for Dye-Sensitized Solar Cells: DFT/TDDFT Approach <br /> <a href="https://doi.org/10.1007/978-3-030-69445-6_8">BookChapter (2021)</a>
-
+-->
 ## At WTAMU
 
 {% for publi in site.data.publist %}
