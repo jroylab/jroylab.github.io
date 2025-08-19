@@ -1,6 +1,7 @@
 - name: "Asmita Adhikari"
   photo: rock.jpg
-  info: Currently working in the industry
+  duration: In the Roy lab 2023/Fall-2024/Summer, now Stability Chemist at Aloe Vera of America
+  info: Undergraduate researcher, worked on the BTPA project
   email: aadhikari@buffs.wtamu.edu
   number_educ: 0
   education1:
@@ -9,7 +10,8 @@
 
 - name: "Farrah Creery"
   photo: farrah.jpeg
-  info: Currently pursuing Ph.D. in Chemical Engineering, University of Oklahoma
+  duration: In the Roy lab 2024(Spring-Summer), now pursuing a Ph.D. in Chemical Engineering, University of Oklahoma
+  info: Undergraduate researcher, worked on the project (semitransparent solar cells)
   email: 
   number_educ: 0
   education1:
