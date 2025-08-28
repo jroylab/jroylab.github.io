@@ -69,6 +69,6 @@ We are currently building up our instruments right in the center of Munich, in t
 <figure class="fifth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-wtspirit.png" style="width: 130px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nsf.png" style="width: 130px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-access.jpeg" style="width: 130px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/welch.png" style="width: 180px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-access.jpeg" style="width: 130px">
  </figure>
