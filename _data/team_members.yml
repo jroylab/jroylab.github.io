@@ -24,6 +24,15 @@
   education1: Major in Computer Science
   education2:
 
+- name: Rituja"
+  photo: rock.jpg
+  info: Avid learner and daddy's daughter
+  email: niu@wtamu.edu
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  
 - name: "This could be you !"
   photo: rock.jpg
   info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
