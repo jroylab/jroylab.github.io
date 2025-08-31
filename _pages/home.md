@@ -9,10 +9,8 @@ permalink: /
 <!--**News: Our group moved to the West Texas A&M University (WTAMU)!** Join us! )-->
 
 We are a dynamic research group at [WTAMU Department of Chemistry and Physics] 
-
-We have two overarching goals: first, 
-**to understand quantum materials**, including strange metals, high-temperature superconductors, and quantum critical electron matter. Second, **to make novel and useful materials** that never existed before, like possible room-temperature superconductors. 
-To achieve these goals, we develop new quantum sensing and quantum imaging instrumentation to obtain the key quantum mechanical degrees of freedom. We want to build the perfect instruments to answer the scientific questions we deem most important. 
+ 
+Our overall research interests lie in **renewable energy and sustainable environments**, including solar cells and photocatalysts. We use a combination of computational tools, such as state-of-the-art density functional theory, molecular dynamics, machine learning, and first principles approach, to predict the properties of new materials and provide design principles to enhance the photophysical properties of materials. Our group also develops structure-activity relationships and applies multiscale tools to elucidate complex chemical processes on nanomaterials.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
@@ -58,7 +56,7 @@ To achieve these goals, we develop new quantum sensing and quantum imaging instr
 </div>
 
 
-We are currently building up our instruments right in the center of Munich, in the *Sommerfeldkeller*, where Sommerfeld and Röntgen worked. We will exchange ideas with world class groups working in quantum physics, cold-atom many-body physics, and 2d quantum materials. We are also a proud member of the [SuperC consortium](https://superc2033.com/our-team/).
+<!--We are currently building up our instruments right in the center of Munich, in the *Sommerfeldkeller*, where Sommerfeld and Röntgen worked. We will exchange ideas with world class groups working in quantum physics, cold-atom many-body physics, and 2d quantum materials. We are also a proud member of the [SuperC consortium](https://superc2033.com/our-team/).-->
 
 {::comment}
 //**We are looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)](https://www.allanlab.org/vacancies) **!**
