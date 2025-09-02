@@ -91,3 +91,27 @@ firstp {
     margin-right: 30px;
 }
 
+/* WTAMU Digital Maroon navbar and text colors */
+.navbar-default {
+    background-color: #450012;
+    border-color: #450012;
+}
+
+.navbar-default .navbar-brand {
+    color: #ffffff;
+}
+
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+    color: #cccccc;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: #ffffff;
+}
+
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+    color: #cccccc;
+}
+
