@@ -14,6 +14,8 @@ We are  looking for new group members with passion, talent, and grit!
 
 You will have the chance to work on the grand challenges of photo-physics, often at the interface of chemistry/physics and artificial intelligence. You will be involved in determining the important and interesting questions, creating and improving the machine learning/deep learning code, along with computational chemistry tools. 
 
+
+<!--
 ### Past open positions
 
 You find the past job openings here:
@@ -38,4 +40,5 @@ If you are interested in pursuing a Master degree at Leiden University, see [mas
 
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%">
-</figure>
+</figure>  
+-->
