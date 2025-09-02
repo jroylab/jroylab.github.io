@@ -9,7 +9,7 @@ permalink: /publications/
 
 # Publications
 
-**For a full list of publications, go to [Google Scholar](https://scholar.google.com/citations?user=fIxgVAEAAAAJ&hl=en&oi=ao), [RG](researchgate.net/profile/Juganta-Roy?ev=hdr_xprf&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImhvbWUiLCJwYWdlIjoiaG9tZSIsInByZXZpb3VzUGFnZSI6InF1ZXN0aW9uT3ZlcnZpZXciLCJwb3NpdGlvbiI6Imdsb2JhbEhlYWRlciJ9fQ)**
+**For a full list of publications, go to [Google Scholar](https://scholar.google.com/citations?user=fIxgVAEAAAAJ&hl=en&oi=ao), [RG](https://www.researchgate.net/profile/Juganta-Roy?ev=hdr_xprf)**
 
 ## Group highlights
 
