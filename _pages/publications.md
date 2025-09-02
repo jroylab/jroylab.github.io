@@ -9,7 +9,7 @@ permalink: /publications/
 
 # Publications
 
-**For a full list of publications, go to [Google Scholar](https://scholar.google.com/citations?user=fIxgVAEAAAAJ&hl=en&oi=ao), [RG](https://www.researchgate.net/profile/Juganta-Roy?ev=hdr_xprf)**
+**(For a full list of publications, go to [Google Scholar](https://scholar.google.com/citations?user=fIxgVAEAAAAJ&hl=en&oi=ao), [ORCID](https://orcid.org/0000-0002-3646-5593))**
 
 ## Group highlights
 
