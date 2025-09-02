@@ -12,7 +12,7 @@ permalink: /vacancies
 
 We are  looking for new group members with passion, talent, and grit!
 
-You will have the chance to work on the grand challenges of photo-physics, often at the interface of chemistry/physics and artificial intelligence. You will be involved in determining the important and interesting questions, creating and improving the machine learning/deep learning code, along with computational chemistry tools. Please see the [details]({{ site.baseurl }}/downloads/Flyer-UGRA-Roy.png).
+You will have the chance to work on the grand challenges of photo-physics, often at the interface of chemistry/physics and artificial intelligence. You will be involved in determining the important and interesting questions, creating and improving the machine learning/deep learning code, along with computational chemistry tools. Please see the [details]({{ site.baseurl }}/downloads/UGRA-2025.pdf).
 
 <!--
 ### Past open positions
