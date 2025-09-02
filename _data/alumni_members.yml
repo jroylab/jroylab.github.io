@@ -20,7 +20,7 @@
   
 - name: "This could be you !"
   photo: NewBuffalo.png
-  info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
+  info: Contact us for more information about joining the lab
   email: niu@wtamu.edu
   number_educ: 0
   education1:

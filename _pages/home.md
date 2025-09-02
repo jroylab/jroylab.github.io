@@ -61,7 +61,7 @@ Our overall research interests lie in **renewable energy and sustainable environ
 <!--We are currently building up our instruments right in the center of Munich, in the *Sommerfeldkeller*, where Sommerfeld and Röntgen worked. We will exchange ideas with world class groups working in quantum physics, cold-atom many-body physics, and 2d quantum materials. We are also a proud member of the [SuperC consortium](https://superc2033.com/our-team/).-->
 
 {::comment}
-//**We are looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)](https://www.allanlab.org/vacancies) **!**
+//**We are looking for passionate new PhD students, Postdocs, and Master students to join the team** (contact us for more info) **!**
 {:/comment}
 
 <!-- <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/SPIRIT-StackedLogoNEW-digital650.png" style="width: 635px; border-radius: 0;"> -->
