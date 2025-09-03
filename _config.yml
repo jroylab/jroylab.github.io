@@ -11,7 +11,7 @@ email: tslafferty1@buffs.wtamu.edu
 description: > # this means to ignore newlines until "baseurl:"
   Website of the TylerLab.
 baseurl: ""
-url: "https://jroylab.github.io/roylab"
+url: "https://jroylab.github.io"
 
 include:
   - .htaccess
