@@ -8,9 +8,9 @@ permalink: /
 
 <!--**News: Our group moved to the West Texas A&M University (WTAMU)!** Join us! )-->
 
-We are a dynamic research group at [WTAMU Department of Chemistry and Physics] 
+<!--We are a dynamic research group at the WTAMU Department of Chemistry and Physics-->
  
-Our overall research interests lie in **renewable energy and sustainable environments**, including solar cells and photocatalysts. We use a combination of computational tools, such as *state-of-the-art density functional theory, molecular dynamics, machine learning, and first principles approach,* to predict the properties of new materials and provide design principles to enhance the photophysical properties of materials. Our group also develops structure-activity relationships and applies multiscale tools to elucidate complex chemical processes on nanomaterials.
+The research interests of the **C**lean **E**nergy **M**aterials **M**odeling **Lab** (CEMMLab) lie in **renewable energy and sustainable environments**, including solar cells and photocatalysts. We use a combination of computational tools, such as *state-of-the-art density functional theory, molecular dynamics, machine learning, and first principles approach,* to predict the properties of new materials and provide design principles to enhance the photophysical properties of materials. Our group also develops structure-activity relationships and applies multiscale tools to elucidate complex chemical processes on nanomaterials.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
