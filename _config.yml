@@ -6,12 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: The Tyler Lab
+title: The Roy Lab
 email: tslafferty1@buffs.wtamu.edu
 description: > # this means to ignore newlines until "baseurl:"
-  Website of the TylerLab.
+  Website of the RoyLab.
 baseurl: ""
-url: "https://jroylab.github.io"
+url: "https://jroylab.github.io/roylab/"
 
 include:
   - .htaccess
