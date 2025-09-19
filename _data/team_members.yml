@@ -25,21 +25,12 @@
   education2:
 
 - name: Ruben Nunez
-  photo: ruben.jpeg
+  photo: ruben.jpg
   info: Undergraduate Researcher, started September 2025
   email: rnunez2@buffs.wtamu.edu
   number_educ: 1
   education1: Major in Computer Science
   education2:
-
-- name: Rituja
-  photo: ritu.jpg
-  info: Avid learner and daddy's daughter
-  email: niu@wtamu.edu
-  number_educ: 0
-  education1:
-  education2:
-  education3:
   
 - name: "This could be you !"
   photo: NewBuffalo.png
