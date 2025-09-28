@@ -48,7 +48,7 @@ The research interests of the **C**lean **E**nergy **M**aterials **M**odeling **
         </div>
     </div>
      
- <!-- 
+
  <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
@@ -58,7 +58,7 @@ The research interests of the **C**lean **E**nergy **M**aterials **M**odeling **
     <span class="sr-only">Next</span>
   </a>
 </div>
--->
+
 
 <!--We are currently building up our instruments right in the center of Munich, in the *Sommerfeldkeller*, where Sommerfeld and Röntgen worked. We will exchange ideas with world class groups working in quantum physics, cold-atom many-body physics, and 2d quantum materials. We are also a proud member of the [SuperC consortium](https://superc2033.com/our-team/).-->
 
