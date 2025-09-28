@@ -15,7 +15,15 @@ The research interests of the **C**lean **E**nergy **M**aterials **M**odeling **
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
-   
+ <ol class="carousel-indicators">
+        <li data-target="#carousel" data-slide-to="0" class="active"></li>
+        <li data-target="#carousel" data-slide-to="1"></li>
+        <li data-target="#carousel" data-slide-to="2"></li>
+        <li data-target="#carousel" data-slide-to="3"></li>
+        <li data-target="#carousel" data-slide-to="4"></li>
+        <li data-target="#carousel" data-slide-to="5"></li>
+        <li data-target="#carousel" data-slide-to="6"></li>
+    </ol>    
 
     
     <!-- Items -->
@@ -39,7 +47,9 @@ The research interests of the **C**lean **E**nergy **M**aterials **M**odeling **
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/BSCCO2gap2.jpg" alt="Slide 6" />
         </div>
     </div>
-  <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
+     
+ <!-- 
+ <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
   </a>
@@ -48,7 +58,7 @@ The research interests of the **C**lean **E**nergy **M**aterials **M**odeling **
     <span class="sr-only">Next</span>
   </a>
 </div>
-
+-->
 
 <!--We are currently building up our instruments right in the center of Munich, in the *Sommerfeldkeller*, where Sommerfeld and Röntgen worked. We will exchange ideas with world class groups working in quantum physics, cold-atom many-body physics, and 2d quantum materials. We are also a proud member of the [SuperC consortium](https://superc2033.com/our-team/).-->
 
