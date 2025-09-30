@@ -10,7 +10,7 @@
 
 - name: Tyler Lafferty
   photo: tyler.jpg
-  info: Undergraduate Researcher, started Oct 2024
+  info: Undergraduate Researcher, started Oct. 2024
   email: tslafferty1@buffs.wtamu.edu
   number_educ: 1
   education1: Major in Chemistry
@@ -26,10 +26,18 @@
 
 - name: Ruben Nunez
   photo: ruben.jpg
-  info: Undergraduate Researcher, started September 2025
+  info: Undergraduate Researcher, started Sep. 2025
   email: rnunez2@buffs.wtamu.edu
   number_educ: 1
   education1: Major in Computer Science
+  education2:
+
+- name: Thatcher Bentley
+  photo: thatcher.jpg
+  info: Undergraduate Researcher, started Sep. 2025
+  email: trbentley1@buffs.wtamu.edu
+  number_educ: 1
+  education1: Major in Chemistry
   education2:
   
 - name: "This could be you !"
