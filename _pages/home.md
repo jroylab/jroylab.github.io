@@ -19,6 +19,7 @@ The research interests of the **C**lean **E**nergy **M**aterials **M**odeling **
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
         <li data-target="#carousel" data-slide-to="1"></li>
         <li data-target="#carousel" data-slide-to="2"></li>
+        <li data-target="#carousel" data-slide-to="3"></li>
     </ol>    
 
     
@@ -31,7 +32,10 @@ The research interests of the **C**lean **E**nergy **M**aterials **M**odeling **
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/images_large_cs4c04312_0007.jpg" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/molecules-29-01580-g001.png" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/molecules-29-01580-g001a.png" alt="Slide 3" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/molecules-29-01580-g001b.png" alt="Slide 4" />
         </div>
     </div>
      
