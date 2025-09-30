@@ -26,7 +26,7 @@ The research interests of the **C**lean **E**nergy **M**aterials **M**odeling **
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/aocs12937-fig-0001-m.jpg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/aocs12937-fig-0001-m2.jpg" alt="Slide 1" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/images_large_cs4c04312_0007.jpg" alt="Slide 2" />
