@@ -18,7 +18,7 @@ permalink: /allnews.html
   {% endif %}
   {% if article.image %}
   <div style="flex-shrink: 0;">
-    <img src="{{ article.image }}" class="img-responsive" style="max-width: 400px; height: auto;">
+    <img src="{{ article.image }}" class="img-responsive" style="max-width: 380px; height: auto;">
   </div>
   {% endif %}
 </div>
