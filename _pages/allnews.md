@@ -15,7 +15,7 @@ permalink: /allnews.html
 <div style="margin-left: 2em; display: flex; align-items: flex-start; gap: 20px;" markdown="0">
   {% if article.image %}
   <div style="flex-shrink: 0;">
-    <img src="{{ article.image }}" class="img-responsive" style="max-width: 300px; height: auto;">
+    <img src="{{ article.image }}" class="img-responsive" style="max-width: 500px; height: auto;">
   </div>
   {% endif %}
   {% if article.description %}
