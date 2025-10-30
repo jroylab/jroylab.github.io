@@ -12,7 +12,7 @@ permalink: /allnews.html
 **{{ article.date }}**
 {{ article.headline | markdownify}}
 {% if article.description or article.image %}
-<div style="margin-left: 2em; display: flex; align-items: flex-start; gap: 20px;" markdown="0">
+<div style="margin-left: 2em; display: flex; align-items: center; gap: 20px;" markdown="0">
   {% if article.description %}
   <div markdown="1" style="max-width: 400px;">{{ article.description | markdownify }}</div>
   {% endif %}
