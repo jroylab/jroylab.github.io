@@ -14,7 +14,7 @@ permalink: /allnews.html
 {% if article.description or article.image %}
 <div style="margin-left: 2em; display: flex; align-items: center; gap: 20px;" markdown="0">
   {% if article.description %}
-  <div markdown="1" style="max-width: 400px; text-indent: 2em; text-align: justify;">{{ article.description | markdownify }}</div>
+  <div markdown="1" style="max-width: 395px; text-indent: 2em; text-align: justify;">{{ article.description | markdownify }}</div>
   {% endif %}
   {% if article.image %}
   <div style="flex-shrink: 0;">
