@@ -13,13 +13,13 @@ permalink: /allnews.html
 {{ article.headline | markdownify}}
 {% if article.description or article.image %}
 <div style="margin-left: 2em; display: flex; align-items: flex-start; gap: 20px;" markdown="0">
+  {% if article.description %}
+  <div markdown="1" style="max-width: 400px;">{{ article.description | markdownify }}</div>
+  {% endif %}
   {% if article.image %}
   <div style="flex-shrink: 0;">
     <img src="{{ article.image }}" class="img-responsive" style="max-width: 500px; height: auto;">
   </div>
-  {% endif %}
-  {% if article.description %}
-  <div markdown="1" style="flex: 1;">{{ article.description | markdownify }}</div>
   {% endif %}
 </div>
 {% endif %}
