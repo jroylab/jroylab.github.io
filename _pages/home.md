@@ -12,7 +12,6 @@ permalink: /
  
 The research interests of the **C**lean **E**nergy **M**aterials **M**odeling **Lab**oratory (CEMMLab) lie in **renewable energy and sustainable environments**, including solar cells and photocatalysts. We use a combination of computational tools, such as *state-of-the-art density functional theory, molecular dynamics, machine learning, and first principles approach,* to predict the properties of new materials and provide design principles to enhance the photophysical properties of materials. Our group also develops structure-activity relationships and applies multiscale tools to elucidate complex chemical processes on nanomaterials.
 
-
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
  <ol class="carousel-indicators">
