@@ -12,14 +12,14 @@ permalink: /allnews.html
 **{{ article.date }}**
 {{ article.headline | markdownify}}
 {% if article.description or article.image %}
-<div style="margin-left: 2em;" markdown="0">
+<div style="margin-left: 2em; display: flex; align-items: flex-start; gap: 20px;" markdown="0">
   {% if article.image %}
-  <div style="text-align: center; margin-bottom: 10px;">
-    <img src="{{ article.image }}" class="img-responsive" style="max-height: 400px; width: auto; display: inline-block;">
+  <div style="flex-shrink: 0;">
+    <img src="{{ article.image }}" class="img-responsive" style="max-width: 300px; height: auto;">
   </div>
   {% endif %}
   {% if article.description %}
-  <div markdown="1">{{ article.description | markdownify }}</div>
+  <div markdown="1" style="flex: 1;">{{ article.description | markdownify }}</div>
   {% endif %}
 </div>
 {% endif %}
