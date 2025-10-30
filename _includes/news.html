@@ -3,7 +3,14 @@
 <h4>News</h4>
 
 {% for article in site.data.news limit:9 %}
-<p>{{ article.date }}<br>{{ article.headline | markdownify}}</p>
+<p>{{ article.date }}<br>{{ article.headline | markdownify}}
+{% if article.description %}
+{{ article.description | markdownify }}
+{% endif %}
+{% if article.image %}
+<img src="{{ article.image }}" class="img-responsive" style="max-width: 400px; margin-top: 10px;">
+{% endif %}
+</p>
 {% endfor %}
 
 <h4><a href="{{ site.url }}{{ site.baseurl }}/allnews.html">... see all News</a></h4>
