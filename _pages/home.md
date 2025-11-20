@@ -18,18 +18,22 @@ The research interests of the **C**lean **E**nergy **M**aterials **M**odeling **
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
         <li data-target="#carousel" data-slide-to="1"></li>
         <li data-target="#carousel" data-slide-to="2"></li>
+        <li data-target="#carousel" data-slide-to="3"></li>
     </ol>    
 
     <!-- Items -->
     <div class="carousel-inner" markdown="0" style="height: 562px;">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/images_large_cs4c04312_0007.jpg" alt="Slide 1" style="height: 562px; width: auto; margin: 0 auto; object-fit: contain;" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/toc.png" alt="Slide 1" style="height: 562px; width: auto; margin: 0 auto; object-fit: contain;" />    
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/maha1.png" alt="Slide 2" style="height: 562px; width: auto; margin: 0 auto; object-fit: contain;" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/images_large_cs4c04312_0007.jpg" alt="Slide 2" style="height: 562px; width: auto; margin: 0 auto; object-fit: contain;" />        
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/molecules-TOC.png" alt="Slide 3" style="height: 562px; width: auto; margin: 0 auto; object-fit: contain;" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/maha1.png" alt="Slide 3" style="height: 562px; width: auto; margin: 0 auto; object-fit: contain;" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/molecules-TOC.png" alt="Slide 4" style="height: 562px; width: auto; margin: 0 auto; object-fit: contain;" />
         </div>
     </div>
      
