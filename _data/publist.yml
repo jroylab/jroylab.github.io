@@ -46,7 +46,7 @@
   authors: Juganta K. Roy, Mona Abdelgaid, Giannis Mpourmpakis
   link:
     url: 
-    display: ACS Omega (submitted)
+    display: ACS Omega (under review)
   highlight: 1
   news1:
   news2: 
@@ -62,10 +62,21 @@
   news1:
   news2: 
 
-- title: "Mechanistic understanding of E/Z-Tosylhydrazone formation"
+- title: "Exploring Hole-Transport Materials to Enhance Perovskite Solar Cells Efficiency: A Data-Driven Approach"
+  image: dummy.png
+  description: 
+  authors: Tyler Lafferty and Juganta K. Roy
+  link:
+    url: 
+    display: Under Preparation
+  highlight: 1
+  news1:
+  news2:
+  
+- title: "Mechanistic Understanding of E/Z-Tosylhydrazone Formation"
   image: dummy.png
   description: Collaborative work with Maha Shrestha
-  authors: Juganta K. Roy et al.
+  authors: Maha Shrestha and Juganta K. Roy
   link:
     url: 
     display: under preparation
