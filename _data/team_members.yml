@@ -40,6 +40,14 @@
   education1: Major in Chemistry
   education2:
   
+- name: Dylan Lease
+  photo: dylan.jpeg
+  info: Undergraduate Researcher, started Nov. 2025
+  email: dwlease1@buffs.wtamu.edu
+  number_educ: 1
+  education1: Major in Biochemistry
+  education2:
+  
 - name: "This could be you !"
   photo: NewBuffalo.png
   info: Contact us for more information about joining the lab
