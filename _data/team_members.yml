@@ -8,22 +8,6 @@
   education3: Postdoc, University of Pittsburgh with <a href="https://mpourmpakis.com/">Giannis Mpourmpakis</a>
   education4: 
 
-- name: Tyler Lafferty
-  photo: tyler.jpg
-  info: Undergraduate Researcher, started Oct. 2024
-  email: tslafferty1@buffs.wtamu.edu
-  number_educ: 1
-  education1: Major in Chemistry
-  education2:
-
-- name: Emma Doucette
-  photo: emma.jpeg
-  info: Undergraduate Researcher, started March 2025
-  email: ecdoucette1@buffs.wtamu.edu
-  number_educ: 1
-  education1: Major in Computer Science
-  education2:
-
 - name: Ruben Nunez
   photo: ruben.jpg
   info: Undergraduate Researcher, started Sep. 2025
@@ -40,12 +24,20 @@
   education1: Major in Chemistry
   education2:
   
-- name: Dylan Lease
-  photo: dylan.jpeg
-  info: Undergraduate Researcher, started Nov. 2025
-  email: dwlease1@buffs.wtamu.edu
+- name: Noah Mata
+  photo: NewBuffalo.png
+  info: Undergraduate Researcher, started June. 2026
+  email: nmata2@buffs.wtamu.edu
   number_educ: 1
-  education1: Major in Biochemistry
+  education1: Major in Software Engineering
+  education2:
+
+- name: Abigil John
+  photo: NewBuffalo.png
+  info: Undergraduate Researcher, started July. 2026
+  email: ajjohn1@buffs.wtamu.edu
+  number_educ: 1
+  education1: Major in Environmental Science
   education2:
   
 - name: "This could be you !"
