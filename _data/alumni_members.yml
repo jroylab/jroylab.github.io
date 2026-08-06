@@ -11,12 +11,30 @@
 - name: "Farrah Creery"
   photo: farrah.jpeg
   duration: In the Roy lab 2024, pursuing Ph.D. in Chem Engineering, University of Oklahoma
-  info: UG researcher (semitransparent solar cells project)
+  info: UG researcher (Semitransparent Solar Cells Project)
   email: 
   number_educ: 0
   education1:
   education2:
   education3:
+
+- name: Tyler Lafferty
+  photo: tyler.jpg
+  duration: In the Roy lab, Fall 2024, Chemist at PANTEX Plant, Amarillo.
+  info: UG researcher (Perovskite/Hole Transport Materials Project)
+  email: tslafferty1@buffs.wtamu.edu
+  number_educ: 1
+  education1: Major in Chemistry
+  education2:
+
+- name: Emma Doucette
+  photo: emma.jpeg
+  duration: In the Roy lab, Spring 2025, Oakridge Lab, TN.
+  info: UG researcher (Semitransparent Solar Cells Project)
+  email: ecdoucette1@buffs.wtamu.edu
+  number_educ: 1
+  education1: Major in Computer Science
+  education2:
   
 - name: "This could be you !"
   photo: NewBuffalo.png
