@@ -193,4 +193,5 @@ permalink: /team/
 
 
 ## Support
-<a href="mailto:tylershanelafferty@gmail.com">Tyler Lafferty</a> is helping us with all the updates and edtis.
+<!-- Items -->
+<!-- <a href="mailto:tylershanelafferty@gmail.com">Tyler Lafferty</a> is helping us with all the updates and edtis. -->
