@@ -1,7 +1,7 @@
 ---
 title: "Roy Lab - Home"
 layout: homelay
-excerpt: "Roy Lab at WTAMU."
+excerpt: "Roy Lab at West Texas A&M University (WTAMU)."
 sitemap: false
 permalink: /
 ---
