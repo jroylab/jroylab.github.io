@@ -14,7 +14,7 @@ permalink: /research/
 
 **Computational Discovery of Functional Semiconductors.** (crystalline materials scale)Our research focuses on developing predictive computational frameworks to accelerate the discovery and design of next-generation halide double perovskites (HDPs) for sustainable optoelectronic and photovoltaic technologies. By integrating first-principles electronic-structure methods, many-body perturbation theory, electron–phonon coupling calculations, and high-performance computing, we investigate how atomic-scale phenomena—including cation ordering, point defects, hydrogen incorporation, and lattice dynamics—govern the electronic structure, charge-carrier transport, exciton dynamics, and photophysical behavior of these materials. Our goal is to establish quantitative structure–property relationships that connect chemical composition and crystal architecture to functional performance, enabling the rational design of stable, lead-free semiconductor materials with enhanced charge transport, defect tolerance, and light-harvesting efficiency. Through computational materials discovery, this research advances fundamental understanding while providing design principles for high-performance semiconductors for photovoltaics, light-emitting devices, radiation detection, and quantum optoelectronics.
 
-({{ site.url }}{{ site.baseurl }}/images/respic/combined-v1.png){: style="width: 70%; float: center; margin: 0px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/combined-v1.png){: style="width: 70%; float: center; margin: 0px"}
 
 ### ... and more.
 
