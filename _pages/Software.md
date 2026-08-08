@@ -1,7 +1,7 @@
 ---
 title: "Roy Lab - Software"
 layout: textlay
-excerpt: "AOA"
+excerpt: Roly Lab --Software
 sitemap: false
 permalink: /Software/
 ---
