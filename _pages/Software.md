@@ -3,11 +3,11 @@ title: "Roy Lab - Software"
 layout: textlay
 excerpt: Roly Lab --Software
 sitemap: false
-permalink: /Software/
+permalink: /research/
 ---
 
 
-## Hier paar Bilder von laufenden und abgeschlossenen Projekten
+## Our lab used the following softwares
 
 ### Rastertunnelmikroskop "Dome" 
 ![image](/images/inst/DomePlan.jpg){:class="img-responsive"}
