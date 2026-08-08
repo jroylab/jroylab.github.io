@@ -3,7 +3,7 @@ title: "Roy Lab - Software"
 layout: textlay
 excerpt: Roly Lab --Software
 sitemap: false
-permalink: /research/
+permalink: /research.html
 ---
 
 
