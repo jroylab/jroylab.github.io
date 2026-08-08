@@ -3,7 +3,7 @@ title: "Roy Lab - Software"
 layout: textlay
 excerpt: "AOA"
 sitemap: false
-permalink: /
+permalink: /Software/
 ---
 
 
