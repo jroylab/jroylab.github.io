@@ -3,12 +3,12 @@ title: "Roy Lab - Vacancies"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
-permalink: /vacancies
+permalink: /openings/
 ---
 
 # Open positions
 
-**We are currently open for Undergraduate researchers related to our NSF grant. The positions are mostly related to the "Materials Modeling for Semitransparent Solar Cells, using DFT and AI**
+We are currently open to undergraduate researchers for our NSF grant. The positions are mostly related to the "Materials Modeling for Semitransparent Solar Cells, using DFT and AI**
 
 We are  looking for new group members with passion, talent, and grit!
 
