@@ -13,7 +13,7 @@ Students from Canyon, Randall, Amarillo, Coppell and Carroll Senior High Schools
 The camp highlighted WT's commitment to providing meaningful STEM research opportunities for high school students while introducing participants to cutting-edge technologies shaping the future of science and renewable energy. The 2026 Computational Summer Camp was supported by the National Science Foundation through Award No. 2450052.
 
 **2. Canyon High School Visit** 
-![]({{ site.url }}{{ site.baseurl }}/images/compic/outreach-1.jpg){: style="width: 250px; float: left; margin: 0px  10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/compic/outreach-1.jpg){: style="width: 250px; float: right; margin: 0px  10px"}
 
 **3. Middle School Science Camp**.
 ![]({{ site.url }}{{ site.baseurl }}/images/compic/SmartTip.png){: style="width: 250px; float: left; margin: 0px  10px"}
