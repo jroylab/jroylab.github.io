@@ -194,4 +194,4 @@ permalink: /team/
 
 ## Support
 <!-- Items -->
-<!-- <a href="mailto:tylershanelafferty@gmail.com">Tyler Lafferty</a> is helping us with all the updates and edtis. -->
+<a href="mailto:nmata@wtamu.edu">Noah Mata</a> is helping us with all the updates and edtis.
