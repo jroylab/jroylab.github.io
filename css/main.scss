@@ -46,6 +46,33 @@ firstp {
   max-width: 1000px; /* or 950px */
 }
 
+/* Dropdown Menu */
+.dropdown {
+    position: relative;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: maroon;
+    min-width: 180px;
+    padding: 10px 0;
+	z-index: 1000;
+}
+.dropdown-content a{
+    display: block;
+    padding: 8px 15px;
+    color: white;
+    text-decoration: none;
+}
+
+.dropdown-content a:hover {
+    background-color: maroon;
+}
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
 /* Home, News */
 #newsid p {
 	text-align: left;
