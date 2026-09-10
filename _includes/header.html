@@ -24,8 +24,8 @@
 		</a>
 		<ul class="dropdown-menu">
 			<li><a href="{{ site.url }}{{ site.baseurl }}/software">Software</a></li>
-			<li><a href="{{ site.url }}{{ site.baseurl }}/group_pictures">Group Pitctures</a></li>
-			<li><a href="{{ site.url }}{{ site.baseurl }}/teaching">Teaching</a></li>
+			<li><a href="{{ site.url }}{{ site.baseurl }}/group_pictures">Group Pictures</a></li>
+			<li><a href="#" onclick="return checkTeachingPassword()">Teaching</a></li>
 
 	  </ul>
 	</li>
@@ -33,3 +33,18 @@
 </div>
 </div>
 </div>
+
+<!-- password code implemented here -->
+<script>
+	function checkTeachingPassword() {
+		var password = prompt("Please Enter the Password: ");
+
+		if (pasword === "RoyTeaching2026") {
+			window.location.href = "{{ site.url }}{{ site.baseurl }}/teaching";
+		}
+		else {
+			alert("Incorrect Password.");
+		}
+		return false;
+	}
+</script>
