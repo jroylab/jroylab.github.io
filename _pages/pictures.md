@@ -1,11 +1,11 @@
 ---
-title: "Roy Lab - Group Pictures"
+title: "Roy Lab - Pictures"
 layout: piclay
-excerpt: "Roy Lab -- Group Pictures"
-permalink: /Group Pictures/
+excerpt: "Roy Lab -- Pictures"
+permalink: /pictures/
 ---
 
-# Pictures
+# Group Pictures
 Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st-andrews)
 
 
