@@ -6,7 +6,7 @@ permalink: /pictures/
 ---
 
 # Group Pictures
-Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st-andrews)
+<!--Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st-andrews)
 
 
 ## Leiden
@@ -76,3 +76,4 @@ From the [group of Felix Baumberger](http://dqmp.unige.ch/baumberger/) (now at U
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageSTA_red.jpg" width="60%">
 </figure>
+-->
