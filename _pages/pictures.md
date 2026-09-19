@@ -2,7 +2,7 @@
 title: "Roy Lab - Group Pictures"
 layout: piclay
 excerpt: "Roy Lab -- Group Pictures"
-permalink: /pictures/
+permalink: /Group Pictures/
 ---
 
 # Pictures
