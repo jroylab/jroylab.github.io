@@ -5,7 +5,10 @@ excerpt: "Roy Lab -- Pictures"
 permalink: /pictures/
 ---
 
-# Group Pictures
+# Pictures
+Jump to: [Group Pictures](#group_pictures)
+
+## Group Pictures
 <!--Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st-andrews)
 
 
