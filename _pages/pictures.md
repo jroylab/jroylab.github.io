@@ -9,7 +9,7 @@ permalink: /pictures/
 Jump to: [Group Pictures](#group_pictures)
 
 ## Group Pictures
-
+Fall 2026
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/NewBuffalo.png){: style="width: 250px; float: left; margin: 0px  10px"}
 
 <!--Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st-andrews)
