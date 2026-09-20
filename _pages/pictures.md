@@ -10,7 +10,7 @@ Jump to: [Group Pictures](#group_pictures)
 
 ## Group Pictures
 <div class="col-sm-3 clearfix">
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ NewBuffalo.png }}" class="img-responsive" width="95%" style="float: left" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ NewBuffalo.png }}" class="img-responsive" width="95%" style="float: left" />
 </div>
 <!--Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st-andrews)
 
