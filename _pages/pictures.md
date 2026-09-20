@@ -10,7 +10,7 @@ Jump to: [Group Pictures](#group_pictures)
 
 ## Group Pictures
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ NewBuffalo.png" width="60%" >
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/NewBuffalo.png" width="60%" >
 </figure>
 
 <!--Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st-andrews)
