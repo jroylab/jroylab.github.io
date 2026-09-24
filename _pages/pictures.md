@@ -9,8 +9,9 @@ permalink: /pictures/
 Jump to: [Group Pictures](#group_pictures)
 
 ## Group Pictures
+
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/fall2026.jpeg){: style="width: 400px; float: left; margin: 0px  10px"}
 ## Fall 2026
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/fall2026.jpeg){: style="width: 250px; float: left; margin: 0px  10px"}
 
 <!--Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st-andrews)
 
