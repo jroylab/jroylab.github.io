@@ -193,5 +193,5 @@ permalink: /team/
 
 
 ## Support
-<!-- Items -->
-<a href="mailto:nmata@wtamu.edu">Noah Mata</a> is helping us with all the updates and edtis.
+<!-- Items 
+<a href="mailto:nmata@wtamu.edu">Noah Mata</a> is helping us with all the updates and edtis.-->
