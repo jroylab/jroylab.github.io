@@ -5,6 +5,13 @@ permalink: /teaching/
 ---
 
 # Teaching
+Uundergraduate:
+	Chemistry I and II (CHEM 1411 and CHEM 1412)
+  Physical Chemistry I and II (CHEM 3421 and CHEM 3422) with Lab
+  Senior Investigations (CHEM 4370)
+  Undergraduate Research (CHEM 4397)
+Graduate
+  Quantum Mechanics (CHEM 6350)
 
 ## Courses
 
