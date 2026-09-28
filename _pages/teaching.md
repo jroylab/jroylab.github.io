@@ -1,6 +1,7 @@
 ---
-layout: default 
-title: Teaching
+title: "Teaching"
+layout: piclay
+excerpt: "Teaching"
 permalink: /teaching/
 ---
 
