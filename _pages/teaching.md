@@ -1,5 +1,5 @@
 ---
-title: "Teaching"
+title: "Roy Lab-Teaching"
 layout: piclay
 excerpt: "Teaching"
 permalink: /teaching/
