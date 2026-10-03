@@ -5,23 +5,30 @@ excerpt: "Teaching"
 permalink: /teaching/
 ---
 
-# Teaching
-- Undergraduate:
-  * Chemistry I and II (CHEM 1411 and CHEM 1412)
-  * Physical Chemistry I and II (CHEM 3421 and CHEM 3422) with Lab
-  * Senior Investigations (CHEM 4370)
-  * Undergraduate Research (CHEM 4397)
-- Graduate
-  * Quantum Mechanics (CHEM 6350)
+# Teaching Philosophy
+My teaching philosophy is grounded in a desire to provide students with a solid foundation in chemistry and the confidence to investigate scientific questions. As a teacher, I strive to **engage, challenge, and inspire** my students' growth. In chemistry, I want students to understand the physical meaning *behind an equation and connect it to the behavior of molecules and materials*. My teaching helps students progress from following procedures to reasoning independently through a combination of conceptual explanations, problem-solving, and constructive feedback.
 
 ## Courses
-
+- Undergraduate:
+  + Fall Semester
+    * Chemistry I and II (CHEM 1411 and CHEM 1412)
+    * Physical Chemistry I (CHEM 3421) with Lab
+    * Senior Investigations (CHEM 4370)
+    * Undergraduate Research (CHEM 4397)
+  + Spring Semester
+    * Chemistry I and II (CHEM 1411 and CHEM 1412)
+    * Physical Chemistry II (CHEM 3422) with Lab
+    * Senior Investigations (CHEM 4370)
+    * Undergraduate Research (CHEM 4397)
+- Graduate
+  + Fall Only
+    * Quantum Mechanics (CHEM 6350)
 ### Course Name
 
 **Semester:** [Semester and Year]
 [Course Description]
 
-## Teaching Activites
+## Teaching Activities
 
 [information about teaching activities]
 
