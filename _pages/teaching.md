@@ -34,5 +34,6 @@ My teaching philosophy is grounded in a desire to provide students with a solid 
 | Spring 2023 |                |              |             |
 | Fall 2024   |                |              |             |
 
-# Teaching Effectiveness
+<!--# Teaching Effectiveness
 **Grade Distributions:** [Visit WTAMU](https://analytics.wtamu.edu/gradeDist/index.html)
+-->
