@@ -6,7 +6,7 @@ permalink: /teaching/
 ---
 
 # Teaching Activities
-Jump to: [Philosophy](#philosophy) [Courses](#courses) [Evaluation](#studentevaluation)
+Jump to: [Philosophy](#philosophy) [Courses](#courses) [Student Evaluation](#studentevaluation)
 
 # Philosophy
 My teaching philosophy is grounded in a desire to provide students with a solid foundation in chemistry and the confidence to investigate scientific questions. As a teacher, I strive to **engage, challenge, and inspire** my students' growth. In chemistry, I want students to understand the physical meaning *behind an equation and connect it to the behavior of molecules and materials*. My teaching helps students progress from following procedures to reasoning independently through a combination of conceptual explanations, problem-solving, and constructive feedback.
