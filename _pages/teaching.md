@@ -36,7 +36,3 @@ My teaching philosophy is grounded in a desire to provide students with a solid 
 
 ## Teaching Effectiveness
 **Grade Distributions:** [Visit WTAMU](https://analytics.wtamu.edu/gradeDist/index.html)
-
-## Resources 
-
-[Additional teaching resources]
