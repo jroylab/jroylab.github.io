@@ -38,6 +38,5 @@ Dummy data
 | **Spring 2025** | 140 | 119 | 85% | 3.65 | 3.42 |
 | **Fall 2025** | 155 | 124 | 80% | 3.58 | 3.41 |
 
-<!--# Teaching Effectiveness
+# Teaching Effectiveness
 **Grade Distributions:** [Visit WTAMU](https://analytics.wtamu.edu/gradeDist/index.html)
--->
