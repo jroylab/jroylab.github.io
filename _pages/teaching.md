@@ -29,7 +29,7 @@ My teaching philosophy is grounded in a desire to provide students with a solid 
 
 # IOTAEvaluation
 | Semester    | Total Students | Response (%) | Score (4.0) |
-|:--------    |:--------------:|:------------:| -----------:|
+|-------------|----------------|--------------|-------------|
 | Fall 2023   |                |              |             |
 | Spring 2023 |                |              |             |
 | Fall 2024   |                |              |             |
