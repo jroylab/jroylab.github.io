@@ -20,7 +20,7 @@ My teaching philosophy is grounded in a desire to provide students with a solid 
     * Physical Chemistry II (CHEM 3422) with Lab
     * Senior Investigations (CHEM 4370)
     * Undergraduate Research (CHEM 4397)
-- Graduate (Fall Only):
+- Graduate:
   + Fall Only  
     * Quantum Mechanics (CHEM 6350)
 ### Course Name
