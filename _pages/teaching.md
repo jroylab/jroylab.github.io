@@ -27,7 +27,8 @@ My teaching philosophy is grounded in a desire to provide students with a solid 
   + Fall Only  
     * Quantum Mechanics (CHEM 6350)
 
-### IOTA Evaluation
+## IOTA Evaluation
+
 | Semester    | Total Students | Response (%) | Score (4.0) |
 |:--------    |:--------------:|:------------:| -----------:|
 | Fall 2023   |                |              |             |
