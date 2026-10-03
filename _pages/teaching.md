@@ -21,7 +21,8 @@ My teaching philosophy is grounded in a desire to provide students with a solid 
     * Senior Investigations (CHEM 4370)
     * Undergraduate Research (CHEM 4397)
 - Graduate (Fall Only):
-    + Quantum Mechanics (CHEM 6350)
+  + Fall Only  
+    * Quantum Mechanics (CHEM 6350)
 ### Course Name
 
 **Semester:** [Semester and Year]
