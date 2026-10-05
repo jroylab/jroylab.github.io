@@ -28,7 +28,7 @@ My teaching philosophy is grounded in a desire to provide students with a solid 
     * Quantum Mechanics (CHEM 6350)
 
 # IOTAEvaluation 
-Dummy data
+
 | Semester | Enrolled Students | Response Count | Response (%) | Avg. Score (4.0) | Department Avg. |
 |:---|:---:|:---:|---:|---:|---:|
 | **Spring 2023** | 120 | 96 | 80% | 3.45 | 3.30 |
