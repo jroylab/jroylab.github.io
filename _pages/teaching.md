@@ -38,40 +38,125 @@ My teaching philosophy is grounded in a desire to provide students with a solid 
 -->
 
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>IOTA Evaluation Table</title>
+  <style>
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-family: Arial, sans-serif;
+    }
+    th, td {
+      border: 1px solid #ccc;
+      padding: 10px;
+      text-align: center;
+    }
+    th {
+      background-color: #f2f2f2;
+    }
+  </style>
+</head>
+<body>
 
-<table>
-  <tr>
-    <th>Semester</th>
-    <th>Course Name</th>
-    <th>Enrolled Students</th>
-    <th>Response (%)</th>
-    <th>Avg. Score (4.0)</th>
-    <th>Department Avg.</th>
-  </tr>
-  <tr>
-    <td><b>Fall 2023</b></td>
-    <td>CHEM 1411</td>
-    <td>68</td>
-    <td>63%</td>
-    <td>2.49</td>
-    <td>3.35</td>
-  </tr>
-  <tr>
-    <td rowspan="2"><b>Spring 2026</b></td>
-    <td>CHEM 1411</td>
-    <td>50</td>
-    <td>70%</td>
-    <td>3.00</td>
-    <td>3.42</td>
-  </tr>
-  <tr>
-    <td>CHEM 1412</td>
-    <td>21</td>
-    <td>81%</td>
-    <td>3.16</td>
-    <td>3.42</td>
-  </tr>
+<table id="iotaTable">
+  <thead>
+    <tr>
+      <th>Semester</th>
+      <th>Course Name</th>
+      <th>Enrolled Students</th>
+      <th>Response (%)</th>
+      <th>Avg. Score (4.0)</th>
+      <th>Department Avg.</th>
+    </tr>
+  </thead>
+  <tbody></tbody>
 </table>
+
+<script>
+const data = [
+  {
+    semester: "Fall 2023",
+    course: "CHEM 1411",
+    enrolled: 68,
+    response: 63,
+    score: 2.49,
+    department: 3.35
+  },
+  {
+    semester: "Spring 2026",
+    course: "CHEM 1411",
+    enrolled: 50,
+    response: 70,
+    score: 3.00,
+    department: 3.42
+  },
+  {
+    semester: "Spring 2026",
+    course: "CHEM 1412",
+    enrolled: 50,
+    response: 70,
+    score: 3.00,
+    department: 3.42
+  }
+];
+
+function renderTable(data) {
+  const tbody = document.querySelector(
+    "#iotaTable tbody"
+  );
+  tbody.innerHTML = "";
+
+  data.forEach((item, index) => {
+    const tr = document.createElement("tr");
+
+    // Automatically merge consecutive semesters
+    if (index === 0 ||
+        item.semester !== data[index - 1].semester) {
+
+      let span = 1;
+
+      while (
+        index + span < data.length &&
+        data[index + span].semester === item.semester
+      ) {
+        span++;
+      }
+
+      const td = document.createElement("td");
+      td.rowSpan = span;
+      const strong = document.createElement("strong");
+      strong.textContent = item.semester;
+      td.appendChild(strong);
+      tr.appendChild(td);
+    }
+
+    const values = [
+      item.course,
+      item.enrolled,
+      item.response + "%",
+      item.score.toFixed(2),
+      item.department.toFixed(2)
+    ];
+
+    values.forEach(value => {
+      const td = document.createElement("td");
+      td.textContent = value;
+      tr.appendChild(td);
+    });
+
+    tbody.appendChild(tr);
+  });
+}
+
+renderTable(data);
+</script>
+
+</body>
+</html>
+
 
 
 
