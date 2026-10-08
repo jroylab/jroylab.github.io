@@ -46,14 +46,14 @@ My teaching philosophy is grounded in a desire to provide students with a solid 
     <th>Avg. Score (4.0)</th>
   </tr>
   <tr>
-    <td><b>Fall 2023</b></td>
+    <td>Fall 2023<</td>
     <td>CHEM 1411</td>
     <td>68</td>
     <td>63%</td>
     <td>2.49</td>
   </tr>
   <tr>
-    <td rowspan="2" style="vertical-align: top;"><b>Spring 2026</b></td>
+    <td rowspan="2" style="vertical-align: top;">Spring 2026</td>
     <td>CHEM 1411</td>
     <td>50</td>
     <td>70%</td>
