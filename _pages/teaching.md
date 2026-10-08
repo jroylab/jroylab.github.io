@@ -34,5 +34,7 @@ My teaching philosophy is grounded in a desire to provide students with a solid 
 | **Fall 2023** | 68 | 63% | 2.49 | 3.35 |
 | **Spring 2026** | 50 | 70% | 3.00 | 3.42 |
 
+
+
 # Teaching Effectiveness
 **Grade Distributions:** [Visit WTAMU](https://analytics.wtamu.edu/gradeDist/index.html)
