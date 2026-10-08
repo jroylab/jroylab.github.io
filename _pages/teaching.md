@@ -30,11 +30,11 @@ My teaching philosophy is grounded in a desire to provide students with a solid 
 # IOTAEvaluation 
 
 <!--
-| Semester | Course Name | Enrolled Students | Response (%) | Avg. Score (4.0) | Department Avg. |
+| Semester | Course Name | Enrolled Students | Response (%) | Avg. Score (4.0) |
 |:---|:---:|:---:|:---:|---:|---:|
-| **Fall 2023** |CHEM 1411 | 68 | 63% | 2.49 | 3.35 |
-| **Spring 2026** |CHEM 1411 | 50 | 70% | 3.00 | 3.42 |
-| **Spring 2026** |CHEM 1412 | 50 | 70% | 3.00 | 3.42 |
+| **Fall 2023** |CHEM 1411 | 68 | 63% | 2.49 |
+| **Spring 2026** |CHEM 1411 | 50 | 70% | 3.00 |
+| **Spring 2026** |CHEM 1412 | 50 | 70% | 3.00 |
 -->
 
 <table>
@@ -44,7 +44,6 @@ My teaching philosophy is grounded in a desire to provide students with a solid 
     <th>Enrolled Students</th>
     <th>Response (%)</th>
     <th>Avg. Score (4.0)</th>
-    <th>Department Avg.</th>
   </tr>
   <tr>
     <td><b>Fall 2023</b></td>
@@ -52,7 +51,6 @@ My teaching philosophy is grounded in a desire to provide students with a solid 
     <td>68</td>
     <td>63%</td>
     <td>2.49</td>
-    <td>3.35</td>
   </tr>
   <tr>
     <td rowspan="2"><b>Spring 2026</b></td>
@@ -60,14 +58,12 @@ My teaching philosophy is grounded in a desire to provide students with a solid 
     <td>50</td>
     <td>70%</td>
     <td>3.00</td>
-    <td>3.42</td>
   </tr>
   <tr>
     <td>CHEM 1412</td>
     <td>21</td>
     <td>81%</td>
     <td>3.16</td>
-    <td>3.42</td>
   </tr>
 </table>
 
