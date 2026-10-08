@@ -53,7 +53,7 @@ My teaching philosophy is grounded in a desire to provide students with a solid 
     <td>2.49</td>
   </tr>
   <tr>
-    <td rowspan="2"><b>Spring 2026</b></td>
+    <td rowspan="2" style="vertical-align: top;""><b>Spring 2026</b></td>
     <td>CHEM 1411</td>
     <td>50</td>
     <td>70%</td>
