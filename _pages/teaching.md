@@ -46,7 +46,7 @@ My teaching philosophy is grounded in a desire to provide students with a solid 
     <th>Avg. Score (4.0)</th>
   </tr>
   <tr>
-    <td>Fall 2023<</td>
+    <td>Fall 2023</td>
     <td>CHEM 1411</td>
     <td>68</td>
     <td>63%</td>
