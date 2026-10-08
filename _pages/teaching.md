@@ -31,12 +31,8 @@ My teaching philosophy is grounded in a desire to provide students with a solid 
 
 | Semester | Enrolled Students | Response Count | Response (%) | Avg. Score (4.0) | Department Avg. |
 |:---|:---:|:---:|---:|---:|---:|
-| **Spring 2023** | 120 | 96 | 80% | 3.45 | 3.30 |
-| **Fall 2023** | 145 | 110 | 76% | 3.52 | 3.35 |
-| **Spring 2024** | 130 | 104 | 80% | 3.60 | 3.38 |
-| **Fall 2024** | 160 | 120 | 75% | 3.48 | 3.40 |
-| **Spring 2025** | 140 | 119 | 85% | 3.65 | 3.42 |
-| **Fall 2025** | 155 | 124 | 80% | 3.58 | 3.41 |
+| **Fall 2023** | 68 | 43 | 63% | 2.49 | 3.35 |
+| **Spring 2026** | 50 | 35 | 70% | 3.00 | 3.42 |
 
 # Teaching Effectiveness
 **Grade Distributions:** [Visit WTAMU](https://analytics.wtamu.edu/gradeDist/index.html)
