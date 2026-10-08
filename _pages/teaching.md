@@ -35,6 +35,32 @@ My teaching philosophy is grounded in a desire to provide students with a solid 
 | **Spring 2026** | 50 | 70% | 3.00 | 3.42 |
 
 
+<table>
+  <tr>
+    <th>Semester</th>
+    <th>Enrolled Students</th>
+    <th>Response Count</th>
+    <th>Response (%)</th>
+    <th>Avg. Score (4.0)</th>
+    <th>Department Avg.</th>
+  </tr>
+  <tr>
+    <td rowspan="2"><b>Fall 2023</b></td>
+    <td>68</td>
+    <td>43</td>
+    <td>63%</td>
+    <td>2.49</td>
+    <td>3.35</td>
+  </tr>
+  <tr>
+    <td>50</td>
+    <td>35</td>
+    <td>70%</td>
+    <td>3.00</td>
+    <td>3.42</td>
+  </tr>
+</table>
+
 
 # Teaching Effectiveness
 **Grade Distributions:** [Visit WTAMU](https://analytics.wtamu.edu/gradeDist/index.html)
