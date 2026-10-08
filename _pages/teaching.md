@@ -67,7 +67,7 @@ My teaching philosophy is grounded in a desire to provide students with a solid 
   <tr>
     <td>CHEM 1412</td>
     <td>21</td>
-    <td>80.95%</td>
+    <td>81%</td>
     <td>3.16</td>
     <td>3.42</td>
   </tr>
