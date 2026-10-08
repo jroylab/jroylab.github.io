@@ -29,17 +29,18 @@ My teaching philosophy is grounded in a desire to provide students with a solid 
 
 # IOTAEvaluation 
 
-| Semester | Enrolled Students | Response (%) | Avg. Score (4.0) | Department Avg. |
-|:---|:---:|:---:|---:|---:|
-| **Fall 2023** | 68 | 63% | 2.49 | 3.35 |
-| **Spring 2026** | 50 | 70% | 3.00 | 3.42 |
+| Semester | Course Name | Enrolled Students | Response (%) | Avg. Score (4.0) | Department Avg. |
+|:---|:---:|:---:|:---:|---:|---:|
+| **Fall 2023** |CHEM 1411 | 68 | 63% | 2.49 | 3.35 |
+| **Spring 2026** |CHEM 1411 | 50 | 70% | 3.00 | 3.42 |
+| **Spring 2026** |CHEM 1412 | 50 | 70% | 3.00 | 3.42 |
 
 
 <table>
   <tr>
     <th>Semester</th>
+    <th>Course Name</th>
     <th>Enrolled Students</th>
-    <th>Response Count</th>
     <th>Response (%)</th>
     <th>Avg. Score (4.0)</th>
     <th>Department Avg.</th>
