@@ -36,6 +36,7 @@ My teaching philosophy is grounded in a desire to provide students with a solid 
 | **Spring 2026** |CHEM 1412 | 50 | 70% | 3.00 | 3.42 |
 
 
+
 <table>
   <tr>
     <th>Semester</th>
@@ -46,21 +47,30 @@ My teaching philosophy is grounded in a desire to provide students with a solid 
     <th>Department Avg.</th>
   </tr>
   <tr>
-    <td rowspan="2"><b>Fall 2023</b></td>
+    <td><b>Fall 2023</b></td>
+    <td>CHEM 1411</td>
     <td>68</td>
-    <td>43</td>
     <td>63%</td>
     <td>2.49</td>
     <td>3.35</td>
   </tr>
   <tr>
+    <td rowspan="2"><b>Spring 2026</b></td>
+    <td>CHEM 1411</td>
     <td>50</td>
-    <td>35</td>
+    <td>70%</td>
+    <td>3.00</td>
+    <td>3.42</td>
+  </tr>
+  <tr>
+    <td>CHEM 1412</td>
+    <td>50</td>
     <td>70%</td>
     <td>3.00</td>
     <td>3.42</td>
   </tr>
 </table>
+
 
 
 # Teaching Effectiveness
