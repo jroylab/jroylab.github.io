@@ -60,12 +60,6 @@ My teaching philosophy is grounded in a desire to provide students with a solid 
     <td>2.95</td>
   </tr>
   <tr>
-    <td>CHEM 1411</td>
-    <td>21</td>
-    <td>81%</td>
-    <td>3.16</td>
-  </tr>
-  <tr>
     <td rowspan="2" style="vertical-align: top;">Spring 2026</td>
     <td>CHEM 1411</td>
     <td>50</td>
