@@ -53,6 +53,7 @@ My teaching philosophy is grounded in a desire to provide students with a solid 
     <td>2.49</td>
   </tr>
   <tr>
+    <td>Fall 2023</td>
     <td>CHEM 1411</td>
     <td>75</td>
     <td>44%</td>
