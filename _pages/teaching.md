@@ -65,7 +65,7 @@ My teaching philosophy is grounded in a desire to provide students with a solid 
     <td>2.47</td>
   </tr>
   <tr>
-  <td>Fall 2025</td>
+    <td>Fall 2025</td>
     <td>CHEM 3421 with Lab</td>
     <td>7</td>
     <td>50%</td>
