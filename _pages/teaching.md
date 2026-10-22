@@ -54,13 +54,12 @@ My teaching philosophy is grounded in a desire to provide students with a solid 
   </tr>
   <tr>
     <td rowspan="2" style="vertical-align: top;">Fall 2024</td>
-    <td>CHEK 1411</td>
+    <td>CHEM 1411</td>
     <td>75</td>
     <td>44%</td>
     <td>2.47</td>
   </tr>
   <tr>
-    <td>Fall 2024</td>
     <td>CHEM 3421 with Lab</td>
     <td>7</td>
     <td>50%</td>
