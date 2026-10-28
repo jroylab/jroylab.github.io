@@ -88,5 +88,5 @@ My teaching philosophy is grounded in a desire to provide students with a solid 
 </table>
 
 # Teaching Effectiveness
-**Grade Distributions:** [Visit WTAMU](https://analytics.wtamu.edu/gradeDist/index.html) /
+**Grade Distributions:** [Visit WTAMU](https://analytics.wtamu.edu/gradeDist/index.html) \
 **ACUE Certifications:** Designing Learner-Centered and Equitable Courses (Completed 2025)
